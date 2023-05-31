@@ -15,7 +15,7 @@ export function Sidebar() {
           alt=""
         />
         <strong>Paulo Bruno</strong>
-        <span>Software Engineer</span>
+        <span>Front End Developer</span>
       </div>
 
       <footer>

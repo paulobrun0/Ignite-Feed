@@ -13,7 +13,7 @@ const posts = [
       avatarUrl:
         "https://media.licdn.com/dms/image/D4D03AQECIbv9C8O4BQ/profile-displayphoto-shrink_200_200/0/1684936000531?e=1690416000&v=beta&t=2MAm6-6AcUALRkb19dCcLJJ4bshVdaqPlWOPEiWyiiA",
       name: "Paulo Bruno",
-      role: "Software Engineer",
+      role: "Front End Developer",
     },
     content: [
       { type: "paragraph", content: "Fala galeraa 👋" },
